@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Company A",
+    "requirements": "requires an apartment or house, and property insurance."
+  },
+  {
+    "company": "Company B",
+    "requirements": "equires 5 door car or 4 door car, and a driver's license and car insurance."
+  },
+  {
+    "company": "Company C",
+    "requirements": "requires a social security number and a work permit. "
+  },
+  {
+    "company": "Company D",
+    "requirements": "requires an apartment or a flat or a house."
+  },
+  {
+    "company": "Company E",
+    "requirements": "requires a driver's license and a 2 door car or a 3 door car or a 4 door car or a 5 door car."
+  },
+  {
+    "company": "Company F",
+    "requirements": "requires a scooter or a bike, or a motorcycle and a driver's license and motorcycle insurance."
+  },
+  {
+    "company": "Company G",
+    "requirements": "requires a massage qualification certificate and a liability insurance."
+  },
+  {
+    "company": "Company H",
+    "requirements": "requires a storage place or a garage."
+  },
+  {
+    "company": "Company J",
+    "requirements": "doesn't require anything, you can come and start working immediately."
+  },
+  {
+    "company": "Company K",
+    "requirements": "requires a PayPal account."
+  }
+]
